@@ -1,0 +1,13 @@
+*{
+	background-color: rgb(85, 204, 255);
+}
+
+ul, li {
+	text-align: center;
+	list-style: none;
+}
+
+span{
+	font-size: 20px;
+	font-weight: 900;
+}
